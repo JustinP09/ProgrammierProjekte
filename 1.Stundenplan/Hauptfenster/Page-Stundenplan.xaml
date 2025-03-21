@@ -1,0 +1,35 @@
+﻿<Page x:Class="Hauptfenster.Page_Stundenplan"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hauptfenster"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_Stundenplan">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Grid.Column="0">
+            <Label Name="lblUhrzeit" Content="Uhrzeit" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Name="lblB1" Content="08:00 - 09:30" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12"/>
+            <Label Name="lblB2" Content="09:45 - 11:15" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12"/>
+            <Label Name="lblB3" Content="11:30 - 13:00" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12"/>
+            <Label Name="lblB4" Content="14:00 - 15:30" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12"/>
+            <Label Name="lblB5" Content="15:45 - 17:15" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12"/>
+            <Label Name="lblB6" Content="17:30 - 19:00" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12"/>
+        </StackPanel>
+
+        <DataGrid Name="dgStundenplan" Grid.Column="1" AutoGenerateColumns="True" ColumnWidth="125" CanUserSortColumns="False"
+                  ItemsSource="{Binding Path=zeitTafel, UpdateSourceTrigger=PropertyChanged}"
+                  CanUserAddRows="False"/>
+    </Grid>
+</Page>

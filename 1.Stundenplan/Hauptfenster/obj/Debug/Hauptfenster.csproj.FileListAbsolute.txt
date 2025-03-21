@@ -1,0 +1,309 @@
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Users\justi\Desktop\MCI_Git\Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.baml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.dll
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.xml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfen.7D7B933F.Up2Date
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\KlausurenUebersicht.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Notizen\NotizenPage.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\StundenplanWindow\StundenplanWindow.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\ToDoWindow\ToDoPage.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\KlausurenUebersicht.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Notizen\NotizenPage.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\StundenplanWindow\StundenplanWindow.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\ToDoWindow\ToDoPage.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfen.7D7B933F.Up2Date
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.dll
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.xml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\KlausurenUebersicht.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Notizen\NotizenPage.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\StundenplanWindow\StundenplanWindow.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDoWindow\ToDoPage.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\KlausurenUebersicht.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Notizen\NotizenPage.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\StundenplanWindow\StundenplanWindow.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDoWindow\ToDoPage.baml
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfen.7D7B933F.Up2Date
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Users\jwern\Desktop\Uni\DrittesSemester\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.dll
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.xml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\KlausurenUebersicht.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Notizen\NotizenPage.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\StundenplanWindow\StundenplanWindow.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDoWindow\ToDoPage.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.baml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\KlausurenUebersicht.baml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Notizen\NotizenPage.baml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\StundenplanWindow\StundenplanWindow.baml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDoWindow\ToDoPage.baml
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfen.7D7B933F.Up2Date
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Users\justi\Desktop\MCI_Git\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.dll
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.xml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.baml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfen.7D7B933F.Up2Date
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MenuFenster.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Notizen.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Stundenplan.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\Page-Klausuren.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDo Page\Page-Todo.g.cs
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MenuFenster.baml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\Page-Klausuren.baml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Notizen.baml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Stundenplan.baml
+C:\Users\Leon\source\repos\Projektordner-Stundenplan\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDo Page\Page-Todo.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe.config
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.exe
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Hauptfenster.pdb
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.dll
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Buffers.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Memory.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Text.Json.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\bin\Debug\System.ValueTuple.xml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MenuFenster.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\Page-Klausuren.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Notizen.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Stundenplan.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDo Page\Page-Todo.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\App.g.cs
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.cache
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster_MarkupCompile.lref
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\AddWindow.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MainWindow.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MenuFenster.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\Page-Klausuren.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Notizen.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Stundenplan.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDo Page\Page-Todo.baml
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.g.resources
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.Properties.Resources.resources
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfen.7D7B933F.Up2Date
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.exe
+C:\Users\justi\Desktop\Test1234\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Hauptfenster.pdb
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MenuFenster.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\Page-Klausuren.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Notizen.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Stundenplan.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDo Page\Page-Todo.g.cs
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\MenuFenster.baml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\KlausurUebersicht\Page-Klausuren.baml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Notizen.baml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\Page-Stundenplan.baml
+C:\Schule\Semester 3\SEP\sep-stundenplan\1.Stundenplan\Hauptfenster\obj\Debug\ToDo Page\Page-Todo.baml

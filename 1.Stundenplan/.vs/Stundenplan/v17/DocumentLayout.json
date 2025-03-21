@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|c:\\schule\\semester 3\\sep\\sep-stundenplan\\1.stundenplan\\hauptfenster\\page-notizen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\page-notizen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\hauptfenster\\page-notizen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\page-notizen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\hauptfenster\\klausuruebersicht\\page-klausuren.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\klausuruebersicht\\page-klausuren.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\hauptfenster\\klausuruebersicht\\page-klausuren.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\klausuruebersicht\\page-klausuren.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\hauptfenster\\page-stundenplan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\page-stundenplan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\hauptfenster\\menufenster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\menufenster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\hauptfenster\\menufenster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE92346C-F513-403A-95E2-A38B797D2462}|Hauptfenster\\Hauptfenster.csproj|solutionrelative:hauptfenster\\menufenster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page-Notizen.xaml.cs",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\Page-Notizen.xaml.cs",
+              "RelativeDocumentMoniker": "Hauptfenster\\Page-Notizen.xaml.cs",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\Page-Notizen.xaml.cs",
+              "RelativeToolTip": "Hauptfenster\\Page-Notizen.xaml.cs",
+              "ViewState": "AQIAACYAAAAAiGFyM3b+vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:09:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page-Notizen.xaml",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\Page-Notizen.xaml",
+              "RelativeDocumentMoniker": "Hauptfenster\\Page-Notizen.xaml",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\Page-Notizen.xaml",
+              "RelativeToolTip": "Hauptfenster\\Page-Notizen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T15:09:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page-Klausuren.xaml.cs",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml.cs",
+              "RelativeDocumentMoniker": "Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml.cs",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml.cs",
+              "RelativeToolTip": "Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml.cs",
+              "ViewState": "AQIAACUAAAAASJIEzTL5vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:09:59.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page-Klausuren.xaml",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml",
+              "RelativeDocumentMoniker": "Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml",
+              "RelativeToolTip": "Hauptfenster\\KlausurUebersicht\\Page-Klausuren.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T10:20:15.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page-Stundenplan.xaml",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\Page-Stundenplan.xaml",
+              "RelativeDocumentMoniker": "Hauptfenster\\Page-Stundenplan.xaml",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\Page-Stundenplan.xaml",
+              "RelativeToolTip": "Hauptfenster\\Page-Stundenplan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T10:19:59.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuFenster.xaml.cs",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\MenuFenster.xaml.cs",
+              "RelativeDocumentMoniker": "Hauptfenster\\MenuFenster.xaml.cs",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\MenuFenster.xaml.cs",
+              "RelativeToolTip": "Hauptfenster\\MenuFenster.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:19:45.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuFenster.xaml",
+              "DocumentMoniker": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\MenuFenster.xaml",
+              "RelativeDocumentMoniker": "Hauptfenster\\MenuFenster.xaml",
+              "ToolTip": "C:\\Schule\\Semester 3\\SEP\\sep-stundenplan\\1.Stundenplan\\Hauptfenster\\MenuFenster.xaml",
+              "RelativeToolTip": "Hauptfenster\\MenuFenster.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T10:19:19.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

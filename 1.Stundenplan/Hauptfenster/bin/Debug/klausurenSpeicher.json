@@ -1,0 +1,35 @@
+[
+  {
+    "fach": "ProzProg",
+    "notiz": {
+      "titel": null,
+      "inhalt": "Nicht wieder durchfallen bitte"
+    },
+    "raum": "KA.007",
+    "anzSpickerSeiten": 10,
+    "datum": "2024-04-03T00:00:00",
+    "uhrzeit": "15:15"
+  },
+  {
+    "fach": "SE",
+    "notiz": {
+      "titel": null,
+      "inhalt": ""
+    },
+    "raum": "HW.203",
+    "anzSpickerSeiten": 6,
+    "datum": "2003-09-09T00:00:00",
+    "uhrzeit": "13:00"
+  },
+  {
+    "fach": "Englisch",
+    "notiz": {
+      "titel": null,
+      "inhalt": "Mathe so cool"
+    },
+    "raum": "HW.013",
+    "anzSpickerSeiten": 7,
+    "datum": "1990-12-02T00:00:00",
+    "uhrzeit": "13:00"
+  }
+]

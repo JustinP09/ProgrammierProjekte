@@ -1,0 +1,24 @@
+﻿<Window x:Class="Hauptfenster.KlausurUebersicht.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hauptfenster.KlausurUebersicht"
+        mc:Ignorable="d"
+        Title="AddWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Fach:"/>
+        <TextBox Name="tbFach"/>
+        <Label Content="Datum:"/>
+        <TextBox Name="tbDatum"/>
+        <Label Content="Uhrzeit:"/>
+        <TextBox Name="tbUhrzeit"/>
+        <Label Content="Raum:"/>
+        <TextBox Name="tbRaum"/>
+        <Label Content="Anzahl der Spicker Seiten:"/>
+        <TextBox Name="tbSpicker"/>
+        <Label Content="Notitz:"/>
+        <TextBox Name="tbNotitz"/>
+        <Button Content="Hinzufügen" Click="Button_Click"/>
+    </StackPanel>
+</Window>

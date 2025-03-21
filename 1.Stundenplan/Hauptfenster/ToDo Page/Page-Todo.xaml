@@ -1,0 +1,19 @@
+﻿<Page x:Class="Hauptfenster.Page_Todo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hauptfenster"
+        mc:Ignorable="d"
+        Title="Page_Todo" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="txtToDoContent"
+         Grid.Row="1"
+         VerticalScrollBarVisibility="Auto"
+         TextWrapping="Wrap"
+         AcceptsReturn="True"
+         FontSize="16"
+         Margin="10" 
+         Text="{Binding Path=toDos, UpdateSourceTrigger=PropertyChanged}"/>
+    </Grid>
+</Page>

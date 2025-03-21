@@ -1,0 +1,26 @@
+﻿<Page x:Class="Hauptfenster.Page_Klausuren"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hauptfenster"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_Klausuren">
+
+    <StackPanel >
+        <Button Name="addButton" Content="Prüfung Hinzufügen" Click="KalsurHinzufuegen"/>
+        <Button Name="delButton" Content="Löschen" Click="KlausurLoeschen"/>
+        <DataGrid Name="dataGrid" ItemsSource="{Binding Path=klausuren, UpdateSourceTrigger=PropertyChanged}" 
+              AutoGenerateColumns="False" CanUserAddRows="False" CanUserSortColumns="False" ColumnWidth="130">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Fach" Binding="{Binding Path=fach}"/>
+                <DataGridTextColumn Header="Datum" Binding="{Binding Path=datum}"/>
+                <DataGridTextColumn Header="Uhrzeit" Binding="{Binding Path=uhrzeit}"/>
+                <DataGridTextColumn Header="Raum" Binding="{Binding Path=raum}"/>
+                <DataGridTextColumn Header="Anzahl Spicker Seiten" Binding="{Binding Path=anzSpickerSeiten}"/>
+                <DataGridTextColumn Header="Notiz" Binding="{Binding Path=notiz.inhalt}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Page>
