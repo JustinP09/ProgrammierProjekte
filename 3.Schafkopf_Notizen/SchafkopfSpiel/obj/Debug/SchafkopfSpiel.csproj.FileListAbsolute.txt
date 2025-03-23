@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\bin\Debug\SchafkopfSpiel.exe.config
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\bin\Debug\SchafkopfSpiel.exe
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\bin\Debug\SchafkopfSpiel.pdb
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.exe
+C:\Users\justi\source\repos\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.pdb
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\bin\Debug\SchafkopfSpiel.exe.config
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\bin\Debug\SchafkopfSpiel.exe
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\bin\Debug\SchafkopfSpiel.pdb
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.exe
+C:\Users\justi\Desktop\Christian\SchafkopfSpiel\obj\Debug\SchafkopfSpiel.pdb
